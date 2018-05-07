@@ -34,4 +34,3 @@ With your server running, visit the site: [localhost:8000](http://localhost:8000
 
 ## Resources 
 - Helpful resource (https://developers.google.com/web/fundamentals/codelabs/offline/).
-- 
